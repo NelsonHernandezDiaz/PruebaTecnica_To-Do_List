@@ -1,4 +1,4 @@
-# PruebaTecnica_To-Do_List
+# Prueba Tecnica / To-Do List
 Es una aplicación de tareas interactiva desarrollada con C# para el backend y React para el Front.
 
 Puedes agregar una tarea, editarla y eliminarla de la lista y marcarla como completada.
